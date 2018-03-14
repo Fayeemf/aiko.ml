@@ -1,3 +1,5 @@
+# This repo is archived. We are no longer syncing our frontend with this repo.
+
 # Aiko Frontend
 
 ## Structure
